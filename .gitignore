@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+
+.env
+
+.venv/
+venv/
+
+backend/talentiq.db
+
+.DS_Store
+
+.streamlit/
+
+# Large datasets
+data/postings.csv
+data/companies.csv
+data/job_skills.csv
+data/salaries.csv
+data/skills.csv
+
+# Database
+backend/talentiq.db
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
